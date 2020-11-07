@@ -1,4 +1,7 @@
+- added the MusicBox-Webclient 
+- deleted Iris, GMusic and Tunein
+
+
 ToDo
 - cleanup
-- add the MusicBox-Webclient (done)
-- delete some unwanted packages
+- simplyfi files
